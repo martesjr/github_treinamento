@@ -10,3 +10,6 @@ Cap3
 Referências
 ...
 Novas inserções
+
+
+Estou testando o Git
