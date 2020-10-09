@@ -16,3 +16,5 @@ Estou testando o Git
 testando agora as 12h53 09/10/2020
 
 Matheus e Samuel
+
+Sergio Junior
